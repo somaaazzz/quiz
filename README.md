@@ -1,1 +1,1 @@
-# natural-disaster-viz
+# discription for the project
