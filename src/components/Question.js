@@ -1,5 +1,5 @@
-import { Box, Text } from "@chakra-ui/react";
+import { Text } from "@chakra-ui/react";
 function Question({ question }) {
-  return <Text fontSize="3xl" color="#423E28">{question}</Text>;
+  return <Text fontSize="26px" color="#423E28">{question}</Text>;
 }
 export default Question;
