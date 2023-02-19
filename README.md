@@ -1,3 +1,4 @@
 # first hackathon project at TreeHacks!
 
-This is my first hackathon joined with Ashley who is my classmate in UC Berkeley. We made a quiz focuses on environmental protection, so that people are aware of environmental crisis that we are facing right now.
+We made a quiz focusing on environmental protection so that people are aware of the environmental crisis.
+We used react, chakra-ui, we never used these before, so we learn while we code. The whole process of making something scratch was hard, but It was fun and so much learning at the same time.
